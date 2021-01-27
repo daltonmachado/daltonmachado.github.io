@@ -27,7 +27,8 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 - Changes and extensions in SteamVR scripts to fit the project's needs.
 
-
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="128">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="128">
 
 
 
