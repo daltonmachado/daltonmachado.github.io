@@ -1,12 +1,31 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/daltonmachado/daltonmachado.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+11+ years of experience in software development. I love to solve problems and to ship projects. I always try to keep things simple in order to find the practical solutions with the right balance between cost, quality and maintainability.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please visit my [LinkedIn](https://www.linkedin.com/in/dalton-machado-20442b18/) profile to know more about where I worked, job titles etc.
 
-### Markdown
+## Projects
+Here are some projects that I have worked on before.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### VR Escape Room Game ([Studio Abacate](http://studioabacate.com.br/))
+VR game in which the player has to solve puzzles to escape from a dark morgue. Developed in Unity using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
+
+**What I did in this project**
+- Overall Game Design and puzzle design;
+
+- Project management;
+
+- Gameplay programming (all object interactions and puzzle validations, generic system for turning objects like keys and handles and pouring/filling system for liquids);
+
+- UI programming for some electronic objects with screens;
+
+- Audio programming (SFX management and playback for a lot of continuous interactions, sharing AudioSources for multiple objects whenever possible);
+
+- Scene setup (interactable objects placement);
+
+- SteamVR setup (input, teleporting, scene loading, skeleton poses and pose interpolation for hands);
+
+- Changes and extensions in SteamVR scripts to fit the project's needs.
 
 ```markdown
 Syntax highlighted code block
