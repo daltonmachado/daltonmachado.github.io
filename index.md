@@ -7,6 +7,8 @@ Please visit my [LinkedIn](https://www.linkedin.com/in/dalton-machado-20442b18/)
 ## Projects
 Here are some projects that I have worked on before.
 
+- [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
+
 ### VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed in Unity using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
@@ -27,43 +29,6 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 - Changes and extensions in SteamVR scripts to fit the project's needs.
 
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
+<a target="_blank" href="https://daltonmachado.github.io/escape"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="196">
-
-[Images](https://github.com/daltonmachado/daltonmachado.github.io/images/escape/escape_images.md)
-
-
-
-
-
-
-
-#
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daltonmachado/daltonmachado.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</a>
