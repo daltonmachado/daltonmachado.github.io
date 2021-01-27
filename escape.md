@@ -2,6 +2,7 @@
 layout: page
 title: VR Escape Room Game
 permalink: /escape/
+theme: jekyll-theme-cayman
 ---
 
 ## VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
