@@ -7,7 +7,7 @@ Please visit my [LinkedIn](https://www.linkedin.com/in/dalton-machado-20442b18/)
 ## Projects
 Here are some projects that I have worked on before.
 
-### VR Escape Room Game ([Studio Abacate](http://studioabacate.com.br/))
+### VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed in Unity using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
 **What I did in this project**
