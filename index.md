@@ -5,7 +5,7 @@
 Please visit my [LinkedIn](https://www.linkedin.com/in/dalton-machado-20442b18/) profile to know more about where I worked, job titles etc.
 
 ## Projects
-Here are some projects that I have worked on before:
+Here are some projects that I have worked on before
 
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 
