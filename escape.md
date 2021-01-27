@@ -3,7 +3,9 @@ title: VR Escape Room Game
 permalink: /escape/
 ---
 
-## VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
+[← Go back to home page](https://daltonmachado.github.io/)
+
+## VR Escape Room Game | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed in Unity using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
 ### What I did in this project
@@ -27,3 +29,5 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 ![](https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif)
 ![](https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif)
+
+[← Go back to home page](https://daltonmachado.github.io/) | [↑ Top](#)

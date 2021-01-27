@@ -2,14 +2,14 @@
 
 11+ years of experience in software development. I love to solve problems and to ship projects. I always try to keep things simple in order to find the practical solutions with the right balance between cost, quality and maintainability.
 
-Please visit my [LinkedIn](https://www.linkedin.com/in/dalton-machado-20442b18/) profile to know more about where I worked, job titles etc.
+Please visit my <a target="_blank" href="https://www.linkedin.com/in/dalton-machado-20442b18/">LinkedIn</a> profile to know more about where I worked, job titles etc.
 
 ## Projects
 Here are some projects that I have worked on before:
 
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 
-### VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
+### VR Escape Room Game | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed in Unity using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
 **What I did in this project**
@@ -29,6 +29,8 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 - Changes and extensions in SteamVR scripts to fit the project's needs.
 
-<a target="_blank" href="https://daltonmachado.github.io/escape"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
+<a target="_blank" href="https://daltonmachado.github.io/escape#gifs"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="196">
 </a>
+
+(_Click any image to see it larger_)
