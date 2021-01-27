@@ -30,6 +30,8 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="196">
 
+[Images](https://github.com/daltonmachado/daltonmachado.github.io/images/escape/escape_images.md)
+
 
 
 
