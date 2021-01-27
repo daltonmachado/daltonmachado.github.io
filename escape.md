@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /escape/
 ---
 
 ## VR Escape Room Game | [Studio Abacate](http://studioabacate.com.br/)
