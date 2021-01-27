@@ -31,6 +31,12 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 <a target="_blank" href="https://daltonmachado.github.io/escape#gifs"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_switch-box_30fps.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_pouring_30fps.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_stirrer_30fps.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_radiography_30fps.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_safe.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_heart-monitor.gif" width="196">
 </a>
 
 _(Click any image to see it larger)_
