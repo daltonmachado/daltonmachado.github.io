@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VR Escape Room Game
-permalink: /escape/
+permalink: /escape
 theme: jekyll-theme-cayman
 ---
 
