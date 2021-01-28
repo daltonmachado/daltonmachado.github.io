@@ -313,5 +313,3 @@ Design and implementation of UI animations in Unity using tweening, with custom 
 </a>
 
 _(Click any image to see it larger)_
-
----
