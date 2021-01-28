@@ -12,7 +12,7 @@ Here are some projects that I have worked on before:
 - [Darumania](#darumania--blanka-studio)
 - [Space Words](#space-words--studio-abacate)
 - [Memory Game](#memory-game--studio-abacate)
-- [Via Varejo AR/VR](#)
+- [Via Varejo AR/VR](#via-varejo-arvr--studio-abacate)
 
 ---
 
@@ -236,7 +236,9 @@ Furniture visualization apps in AR (Kudan SDK) and VR (VRTK on HTC Vive) with he
 
 - AWS setup and management (IAM roles, S3, CloudWatch, DynamoDB).
 
-<a target="_blank" href="https://daltonmachado.github.io/viavarejo#gifs">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHuyqyh-C2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a target="_blank" href="https://daltonmachado.github.io/viavarejo#videos-gifs-and-screenshots">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_handling_30fps.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_colors_30fps.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_ruler_30fps.gif" width="132">
