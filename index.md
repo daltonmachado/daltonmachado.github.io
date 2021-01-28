@@ -10,10 +10,10 @@ Here are some projects that I have worked on before:
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 
 ### VR Escape Room Game | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
-##### Developed in Unity for PC VR
+##### Engine: Unity | Language(s): C# | Platform(s): PC VR
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
-**What I did in this project**
+#### What I did in this project
 - Overall Game Design and puzzle design;
 
 - Project management;
