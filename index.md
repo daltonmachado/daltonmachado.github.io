@@ -14,6 +14,7 @@ Here are some projects that I have worked on before:
 - [Memory Game](#memory-game--studio-abacate)
 - [Via Varejo AR/VR](#via-varejo-arvr--studio-abacate)
 - [Holographic Table](#holographic-table--tv-globo)
+- [Missão Fundo do Mar - Parque da Mônica](#)
 
 ---
 
@@ -275,3 +276,20 @@ Augmented Reality system developed using a tracked camera pedestal from SHOTOKU 
 <iframe width="412" height="231" src="https://www.youtube.com/embed/Aqb7wQJQYhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/htable/bemestar.png" width="412">
 </div>
+
+---
+
+### Missão Fundo do Mar - Parque da Mônica | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
+`Engine: Unity | Language(s): C# | Platform(s): PC`
+
+Attraction from Parque da Mônica (Turma da Mônica's theme park) where kids can paint drawings and scan them to appear projected in the walls to be interacted with using Projection Mapping and LiDAR scanners.
+This project was not made by me, but I had to make some changes to it after 2 years of its release to accommodate improvements requested by the park. These changes were made without the support of the outsourced developers who originally developed the project.
+
+#### What I did in this project
+- TCP proxy programming to intercept and patch the protocol of the LiDAR scanner in order to make it work in two walls instead of one;
+
+- Network programming to sync the whale animation at the end of the experience (the whale swims from one wall to the other with one application instance running for each wall);
+
+- Changed the settings management to use proper UI instead of text files.
+
+<iframe width="832" height="466" src="https://www.youtube.com/embed/yf-8f6mtS4c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
