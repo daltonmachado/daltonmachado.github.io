@@ -250,3 +250,25 @@ Furniture visualization apps in AR (Kudan SDK) and VR (VRTK on HTC Vive) with he
 _(Click any image to see it larger)_
 
 ---
+
+### Holographic Table | TV Globo
+`Engine: Unity | Language(s): C# | Platform(s): PC`
+
+Augmented Reality system developed using a tracked camera pedestal from SHOTOKU and Microsoft's PixelSense screen for live interaction with the content. This system was used in Bem Estar and Bem Amigos live TV shows. Developed at TV Globo's R&D department when I was a researcher there.
+
+#### What I did in this project
+- Overall features design;
+
+- Editor programming for the editor app used by artists to build scenes and interactions for the system;
+
+- Player programming for the player app that runs the interactive AR scenes in the TV studio and allows calibration made by the studio crew using the data coming from 
+- SHOTOKU pedestal;
+
+- PixelSense app (.Net and WPF) used by the TV shows presenters to interact with the content being rendered;
+
+- UI programming for all apps;
+
+- Network programming (UDP sockets) for communication between the player app and the PixelSense app.
+
+<iframe width="412" height="231" src="https://www.youtube.com/embed/Aqb7wQJQYhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/htable/bemestar.png" width="412">
