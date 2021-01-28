@@ -88,11 +88,11 @@ Geolocation-based game with Augmented Reality features made using Mapbox SDK and
 
 - <a target="_blank" href="https://github.com/aws/aws-sdk-net/pull/1295">Bug fix</a> for AWS SDK.
 
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo.gif" width="132">
+<a target="_blank" href="https://daltonmachado.github.io/wibxgo#gifs"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_map.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_dodge.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_catch3.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_profile.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_ar.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_ar.gif" width="132"></a>
 
 _(Click any image to see it larger)_
