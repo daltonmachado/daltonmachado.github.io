@@ -4,9 +4,7 @@
 
 Please visit my <a target="_blank" href="https://www.linkedin.com/in/dalton-machado-20442b18/">LinkedIn</a> profile to know more about my education, where I worked, job titles etc.
 
-## Projects
-Here are some projects that I have worked on before:
-
+## Projects and Showcases
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 - [Wibx GO](#wibx-go--studio-abacate)
 - [Darumania](#darumania--blanka-studio)
@@ -14,7 +12,8 @@ Here are some projects that I have worked on before:
 - [Memory Game](#memory-game--studio-abacate)
 - [Via Varejo AR/VR](#via-varejo-arvr--studio-abacate)
 - [Holographic Table](#holographic-table--tv-globo)
-- [Missão Fundo do Mar - Parque da Mônica](#)
+- [Missão Fundo do Mar - Parque da Mônica](#missão-fundo-do-mar---parque-da-mônica--studio-abacate)
+- Tweening Animations
 
 ---
 
@@ -293,3 +292,26 @@ This project was not made by me, but I had to make some changes to it after 2 ye
 - Changed the settings management to use proper UI instead of text files.
 
 <iframe width="832" height="466" src="https://www.youtube.com/embed/yf-8f6mtS4c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Tweening Animations (Showcase)
+
+Design and implementation of UI animations in Unity using tweening, with custom tools that I developed on top of LeanTween plugin.
+
+<a target="_blank" href="https://daltonmachado.github.io/tweening">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/tweening/safra.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/tweening/wizard.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/tweening/cts500.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_title3.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_hud.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_title.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_tutorial.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_difficult.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_gameover.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_exit.gif" width="200">
+</a>
+
+_(Click any image to see it larger)_
+
+---
