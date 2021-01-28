@@ -74,7 +74,7 @@ Geolocation-based game with Augmented Reality features made using Mapbox SDK and
 
 - Mapbox service setup (map styles, datasets and tilesets);
 
-- [Game's REST API](https://app.swaggerhub.com/apis-docs/studioabacate/WibxGo-Full/1) design, documentation and implementation (data management and access for frog types, spawn areas, missions, gameplay transactions validation, game settings) using Swagger, Postman, AWS Lambda (Node.js/JavaScript) and API Gateway;
+- <a target="_blank" href="https://app.swaggerhub.com/apis-docs/studioabacate/WibxGo-Full/1">Game's REST API</a> design, documentation and implementation (data management and access for frog types, spawn areas, missions, gameplay transactions validation, game settings) using Swagger, Postman, AWS Lambda (Node.js/JavaScript) and API Gateway;
 
 - Game's backend services programming (Mapbox datasets and tilesets update automation);
 
@@ -86,13 +86,13 @@ Geolocation-based game with Augmented Reality features made using Mapbox SDK and
 
 - Demo releases through Unity Cloud Build;
 
-- [Bug fix](https://github.com/aws/aws-sdk-net/pull/1295) for AWS SDK.
+- <a target="_blank" href="https://github.com/aws/aws-sdk-net/pull/1295">Bug fix</a> for AWS SDK.
 
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo.gif" width="196">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_map.gif" width="196">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_dodge.gif" width="196">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_catch3.gif" width="196">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_profile.gif" width="196">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_ar.gif" width="196">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_map.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_dodge.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_catch3.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_profile.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_ar.gif" width="132">
 
 _(Click any image to see it larger)_
