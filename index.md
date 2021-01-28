@@ -12,6 +12,7 @@ Here are some projects that I have worked on before:
 - [Darumania](#darumania--blanka-studio)
 - [Space Words](#space-words--studio-abacate)
 - [Memory Game](#memory-game--studio-abacate)
+- [Via Varejo AR/VR](#)
 
 ---
 
@@ -204,6 +205,44 @@ Augmented Reality game made using Vuforia SDK. A memory game in which the player
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_gameplay.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_gameover.gif" width="132">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/memory-game/mg_exit.gif" width="132">
+</a>
+
+_(Click any image to see it larger)_
+
+---
+
+### Via Varejo AR/VR | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
+`Engine: Unity | Language(s): C#, JavaScript/Node.js | Platform(s): Android, iOS, HTC Vive`
+
+Furniture visualization apps in AR (Kudan SDK) and VR (VRTK on HTC Vive) with heavy use of AssetBundles to provide a catalog of 200+ products. Users can view and interact with furniture in VR in physical stores or download the mobile app to have an AR experience in their homes. Developed for Via Varejo Casas Bahia retail chain.
+
+#### What I did in this project
+
+- AR SDKs tests to define which one would be used in the project (Kudan was the best option in markerless tracking at the time that would run in a large range of devices so I chose it among Vuforia, MAXST, ARToolKit, EasyAR and VOID AR);
+
+- Feature design and implementation (product handling, material change, product dimensions display, doors and drawers interactions);
+
+- AR and VR programming (interacting directly with Kudan and VRTK SDKs to build the user interactions);
+
+- Systems programming (AssetBundle loading, product selection and spawning, favorites, settings, data persistence, camera and sharing API access in Android and iOS through plugins);
+
+- UI setup and programming optimizing dynamic product lists using item pooling;
+
+- Network programming (AssetBundle uploading, downloading and caching, use of AWS SDK for Unity);
+
+- Tools programming (asset pipeline automation, workflow tools for tech artists, AssetBundles build automation using AssetGraph, asset review tools for stakeholders at Via Varejo; all of those custom tools were essential to maintain the service running with daily updates);
+
+- Custom Analytics solution that saves data to AWS DynamoDB to be viewed in QuickSight;
+
+- AWS setup and management (IAM roles, S3, CloudWatch, DynamoDB).
+
+<a target="_blank" href="https://daltonmachado.github.io/viavarejo#gifs">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_handling_30fps.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_colors_30fps.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_ruler_30fps.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-1.png" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-2.png" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/build_system.png" width="132">
 </a>
 
 _(Click any image to see it larger)_
