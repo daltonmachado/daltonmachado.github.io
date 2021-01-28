@@ -236,15 +236,15 @@ Furniture visualization apps in AR (Kudan SDK) and VR (VRTK on HTC Vive) with he
 
 - AWS setup and management (IAM roles, S3, CloudWatch, DynamoDB).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHuyqyh-C2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="412" height="231" src="https://www.youtube.com/embed/sHuyqyh-C2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="412" height="231" src="https://www.youtube.com/embed/mK8v69T_NZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a target="_blank" href="https://daltonmachado.github.io/viavarejo#videos-gifs-and-screenshots">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_handling_30fps.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_colors_30fps.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_ruler_30fps.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-1.png" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-2.png" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/build_system.png" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_handling_30fps.gif" width="272">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_colors_30fps.gif" width="272">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_ruler_30fps.gif" width="272">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-1.png" width="272">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/approval_system-2.png" width="272">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/build_system.png" width="272">
 </a>
 
 _(Click any image to see it larger)_

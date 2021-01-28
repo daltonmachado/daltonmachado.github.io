@@ -32,6 +32,8 @@ Furniture visualization apps in AR (Kudan SDK) and VR (VRTK on HTC Vive) with he
 
 ### Videos, GIFs and Screenshots
 
+<iframe width="832" height="466" src="https://www.youtube.com/embed/sHuyqyh-C2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="832" height="466" src="https://www.youtube.com/embed/mK8v69T_NZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![](https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_handling_30fps.gif)
 ![](https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_colors_30fps.gif)
 ![](https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/via-varejo/vvar_ruler_30fps.gif)
