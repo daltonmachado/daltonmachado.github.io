@@ -9,6 +9,7 @@ Here are some projects that I have worked on before:
 
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 - [Wibx GO](#wibx-go--studio-abacate)
+- [Darumania](#darumania--blanka-studio)
 
 ---
 
@@ -96,3 +97,45 @@ Geolocation-based game with Augmented Reality features made using Mapbox SDK and
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/wibxgo/wibxgo_ar.gif" width="132"></a>
 
 _(Click any image to see it larger)_
+
+---
+
+### Darumania | Blanka Studio
+`Engine: Unity | Language(s): C# | Platform(s): Android`
+
+Casual game in which the player has to tap the eyes of Daruma dolls before they fall off the screen. The game has 4 background levels, 10 unlockable characters and 4 power-up types. The player can also watch ad videos to earn coins to play a Gashapon Machine and unlock characters. Blanka Studio is just a name I used to self-publish this game.
+
+Game Art by Laura Couto.
+
+#### What I did in this project
+- Overall Game Design;
+
+- Gameplay programming;
+
+- Audio programming;
+
+- UI setup and programming;
+
+- Localization management using Smart Localization plugin;
+
+- Animations (splash screen, UI, Gashapon Machine);
+
+- Ads integration using Appodeal SDK;
+
+- Unity Analytics setup and tagging;
+
+- Play Store publishing.
+
+<a target="_blank" href="https://daltonmachado.github.io/darumania#gifs">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/blanka.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gameplay.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gates.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_characters.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_powerups.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gashapon.gif" width="132">
+</a>
+
+_(Click any image to see it larger)_
+
+---
