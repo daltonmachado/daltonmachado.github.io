@@ -4,7 +4,7 @@
 
 Please visit my <a target="_blank" href="https://www.linkedin.com/in/dalton-machado-20442b18/">LinkedIn</a> profile to know more about my education, where I worked, job titles etc.
 
-## Projects and Showcases
+## Projects & Showcases
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 - [Wibx GO](#wibx-go--studio-abacate)
 - [Darumania](#darumania--blanka-studio)
@@ -13,7 +13,7 @@ Please visit my <a target="_blank" href="https://www.linkedin.com/in/dalton-mach
 - [Via Varejo AR/VR](#via-varejo-arvr--studio-abacate)
 - [Holographic Table](#holographic-table--tv-globo)
 - [Missão Fundo do Mar - Parque da Mônica](#missão-fundo-do-mar---parque-da-mônica--studio-abacate)
-- Tweening Animations
+- [Tweening Animations](#tweening-animations-showcase)
 
 ---
 
