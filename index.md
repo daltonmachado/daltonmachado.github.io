@@ -270,5 +270,7 @@ Augmented Reality system developed using a tracked camera pedestal from SHOTOKU 
 
 - Network programming (UDP sockets) for communication between the player app and the PixelSense app.
 
+<div>
 <iframe width="412" height="231" src="https://www.youtube.com/embed/Aqb7wQJQYhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/htable/bemestar.png" width="412">
+</div>
