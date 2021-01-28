@@ -105,7 +105,7 @@ _(Click any image to see it larger)_
 
 Casual game in which the player has to tap the eyes of Daruma dolls before they fall off the screen. The game has 4 background levels, 10 unlockable characters and 4 power-up types. The player can also watch ad videos to earn coins to play a Gashapon Machine and unlock characters. Blanka Studio is just a name I used to self-publish this game.
 
-Game Art by Laura Couto.
+Game Art by <a target="_blank" href="https://linktr.ee/lrcouto">Laura Couto.</a>
 
 #### What I did in this project
 - Overall Game Design;
@@ -127,13 +127,13 @@ Game Art by Laura Couto.
 - Play Store publishing.
 
 <a target="_blank" href="https://daltonmachado.github.io/darumania#gifs">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/blanka.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gameplay.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gates.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_characters.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_powerups.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gashapon.gif" width="132">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/blanka.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gameplay.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gates.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_characters.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_powerups.gif" width="114">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/darumania/darumania_gashapon.gif" width="114">
 </a>
 
 _(Click any image to see it larger)_

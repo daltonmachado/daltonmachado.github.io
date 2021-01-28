@@ -10,7 +10,7 @@ permalink: /darumania/
 
 Casual game in which the player has to tap the eyes of Daruma dolls before they fall off the screen. The game has 4 background levels, 10 unlockable characters and 4 power-up types. The player can also watch ad videos to earn coins to play a Gashapon Machine and unlock characters. Blanka Studio is just a name I used to self-publish this game.
 
-Game Art by Laura Couto.
+Game Art by <a target="_blank" href="https://linktr.ee/lrcouto">Laura Couto.</a>
 
 ### What I did in this project
 - Overall Game Design;
