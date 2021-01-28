@@ -11,6 +11,7 @@ Here are some projects that I have worked on before:
 
 ### VR Escape Room Game | <a target="_blank" href="http://studioabacate.com.br/">Studio Abacate</a>
 `Engine: Unity | Language(s): C# | Platform(s): PC VR`
+
 VR game in which the player has to solve puzzles to escape from a dark morgue. Developed using SteamVR SDK, which makes the game run on every major VR headset. Oculus Rift and HTC Vive were the headsets used for development.
 
 #### What I did in this project
@@ -30,7 +31,7 @@ VR game in which the player has to solve puzzles to escape from a dark morgue. D
 
 - Changes and extensions in SteamVR scripts to fit the project's needs.
 
-<a target="_blank" href="https://daltonmachado.github.io/escape#gifs"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape.gif" width="196">
+<a target="_blank" href="https://daltonmachado.github.io/escape#gifs"><img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_196.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_key.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_switch-box_30fps.gif" width="196">
 <img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/escape/escape_pouring_30fps.gif" width="196">
