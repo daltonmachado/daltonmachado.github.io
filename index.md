@@ -10,6 +10,7 @@ Here are some projects that I have worked on before:
 - [VR Escape Room Game](#vr-escape-room-game--studio-abacate)
 - [Wibx GO](#wibx-go--studio-abacate)
 - [Darumania](#darumania--blanka-studio)
+- [Space Words](#space-words--blanka-studio)
 
 ---
 
@@ -145,7 +146,7 @@ _(Click any image to see it larger)_
 
 Augmented Reality game made using Vuforia SDK. The enemies in the game have a word in english associated to each one of them and one of these words is shown in portuguese in the HUD, so the player needs to shoot the enemy with the right translated word to score. The player can choose between some different characters and keep best score records. Developed for Pearson's Wizard English School.
 
-#### What I did in this project
+#### What I did in this project 
 - Overall Game Design;
 
 - Gameplay programming (spawn system, enemy behavior, word display for enemies and HUD, shooting system, SFX playback, scoring, game over conditions, object pooling for enemies, bullets and particles);
@@ -160,11 +161,11 @@ Augmented Reality game made using Vuforia SDK. The enemies in the game have a wo
 
 - Use of TexturePacker to manually pack sprites in order to improve quality and lower the use of storage and memory on mobile devices.
 
-<a target="_blank" href="https://daltonmachado.github.io/space-words#gifs">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_title3.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_cs30fps.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_hud.gif" width="132">
-<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_gameplay_30fps.gif" width="132">
+<a target="_blank" href="https://daltonmachado.github.io/spacewords#gifs">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_title3.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_cs30fps.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_hud.gif" width="200">
+<img src="https://github.com/daltonmachado/daltonmachado.github.io/raw/main/images/space-words/sw_gameplay_30fps.gif" width="200">
 </a>
 
 _(Click any image to see it larger)_
