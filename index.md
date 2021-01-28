@@ -13,6 +13,7 @@ Here are some projects that I have worked on before:
 - [Space Words](#space-words--studio-abacate)
 - [Memory Game](#memory-game--studio-abacate)
 - [Via Varejo AR/VR](#via-varejo-arvr--studio-abacate)
+- [Holographic Table](#holographic-table--tv-globo)
 
 ---
 
